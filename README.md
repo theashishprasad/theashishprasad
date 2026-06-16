@@ -36,6 +36,9 @@ Features:
 
 Repository:
 [aws-platform-toolkit](https://github.com/theashishprasad/aws-platform-toolkit.git)
+[go-log-analyzer](https://github.com/theashishprasad/go-log-analyzer.git)
+[jenkins-build-report-tool](https://github.com/theashishprasad/jenkins-build-report-tool.git)
+
 
 ### Internal API Platform Framework
 Built reusable Python and Boto3-based automation for AWS API Gateway to standardize API deployment, validation, and security workflows across engineering teams.
