@@ -5,13 +5,14 @@ Platform Engineer focused on CI/CD, Kubernetes, AWS, and developer productivity 
 I build internal tooling, deployment automation, and cloud-native platform systems that help engineering teams ship software faster, safer, and more consistently.
 
 ## 🔧 Core Technologies
-- Python
 - AWS
 - Kubernetes (EKS)
 - Terraform
 - Jenkins
 - Docker
 - Helm
+- Python
+- Go
 
 ## 🚀 What I Work On
 - CI/CD & Release Engineering
